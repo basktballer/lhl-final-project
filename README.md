@@ -1,4 +1,4 @@
-# Final Project - SQUABBLE - Budget Splitting app.
+# SQUABBLE - Budget Splitting app.
 
 !['Screenshot1'](https://github.com/karlchvojka/lhl-final-project/blob/master/docs/budget.png)
 
@@ -18,7 +18,7 @@ Its purpose is to handle data, and export a JSON api.
 The client folder is a react app built seperately from the server.
 This is just React.
 
-### Prerequisits
+### Prerequisites
 - NPM
 - Rails
 ### Setup
