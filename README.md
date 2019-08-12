@@ -1,6 +1,6 @@
 # SQUABBLE - Budget Splitting app.
 
-!['Screenshot1'](https://github.com/karlchvojka/lhl-final-project/blob/master/docs/budget.png)
+!['Screenshot1'](https://github.com/basktballer/lhl-final-project/blob/master/docs/budget.png)
 
 ## Contributors
 [Karl Chvojka](https://www.google.com), [Andrea Mastrantoni](https://github.com/andmast), [Eden Yeung ](https://github.com/basktballer)
